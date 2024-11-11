@@ -16,7 +16,6 @@ The project includes data preprocessing, model development, optimization, and ev
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Work](#future-work)
-- [Contributors](#contributors)
 
 ## Dataset
 The dataset provided by Alphabet Soup includes over 34,000 records with various metadata about organizations that have received funding. Key columns in the dataset are:
